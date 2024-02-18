@@ -1,0 +1,11 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .astro/build directory
+.astro/build/
+
+# Ignore .env dosyası
+.env
+
+# Ignore .DS_Store dosyaları (macOS için)
+.DS_Store
